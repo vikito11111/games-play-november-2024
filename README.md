@@ -6,7 +6,7 @@ SoftUni React Course Project
 - [x] Add softuni practice as server
 - [x] Add base vite react project as client
 - [x] CleanUp client
-- [ ] Add project resources
+- [x] Add project resources
 - [ ] Separate html into components
 ## 2. React Router
 - [ ] Install react-router-dom

@@ -1,5 +1,7 @@
+import gamesAPI from '../../api/games-api';
+
 export default function GameCatalog() {
-    
+
 
     return (
         /* <!-- Catalogue --> */

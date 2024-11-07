@@ -1,7 +1,13 @@
-import gamesAPI from '../../api/games-api';
+import { useEffect, useState } from 'react';
+import * as gamesAPI from '../../api/games-api';
 
 export default function GameCatalog() {
+    const [games, setGames] = useState([]);
 
+    useEffect(() => {
+        gamesAPI.getAll()
+            .then(result => setGames(result));
+    }, []);
 
     return (
         /* <!-- Catalogue --> */

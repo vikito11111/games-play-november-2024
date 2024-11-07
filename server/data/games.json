@@ -1,0 +1,18 @@
+{
+    "c8d1ba1a-c5ac-4ac3-be9d-6b9527504adf": {
+        "title": "Satisfactory",
+        "category": "Automation",
+        "maxLevel": "10",
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/59hWeYAUYt4np7sWWCQzLb.jpg",
+        "summary": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+        "_id": "c8d1ba1a-c5ac-4ac3-be9d-6b9527504adf"
+    },
+    "78e0aecc-564f-45f6-bdb2-e5d0e4d4853f": {
+        "title": "EVE Online",
+        "category": "Space",
+        "maxLevel": "5",
+        "imageUrl": "https://images.ctfassets.net/7lhcm73ukv5p/4YqT61Sh5YI6GqOguoQYcc/70ce578fb734e67e290d336cd8691464/download-eve-online-meta-image.jpg",
+        "summary": "EVE Online is a free-to-play community driven space MMO where players can choose their own path from countless different options. Experience space exploration, immense PvP and PvE battles, mining, industry and a thriving player economy in an ever-expanding sandbox.",
+        "_id": "78e0aecc-564f-45f6-bdb2-e5d0e4d4853f"
+    }
+}

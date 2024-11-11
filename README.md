@@ -20,6 +20,6 @@ SoftUni React Course Project
 - [x] Add games api/service
 - [x] Preseed practice server
 ## 4. Page Implemention
-- [ ] Game Catalog
+- [x] Game Catalog
 - [ ] Details
 - [ ] Home

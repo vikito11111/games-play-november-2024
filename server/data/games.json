@@ -14,5 +14,13 @@
         "imageUrl": "https://images.ctfassets.net/7lhcm73ukv5p/4YqT61Sh5YI6GqOguoQYcc/70ce578fb734e67e290d336cd8691464/download-eve-online-meta-image.jpg",
         "summary": "EVE Online is a free-to-play community driven space MMO where players can choose their own path from countless different options. Experience space exploration, immense PvP and PvE battles, mining, industry and a thriving player economy in an ever-expanding sandbox.",
         "_id": "78e0aecc-564f-45f6-bdb2-e5d0e4d4853f"
+    },
+    "e8d5a007-13c7-4937-9173-813aed33b447": {
+        "title": "World of Warcraft",
+        "category": "MMORPG",
+        "maxLevel": "1",
+        "imageUrl": "https://www.vice.com/wp-content/uploads/sites/2/2019/11/1573076691129-8G9PJA14T3FN1566592377439.jpeg",
+        "summary": "World of Warcraft (WoW) is a 2004 massively multiplayer online role-playing (MMORPG) video game produced by Blizzard Entertainment. Set in the Warcraft fantasy universe, World of Warcraft takes place within the world of Azeroth, approximately four years after the events of the previous game in the series.",
+        "_id": "e8d5a007-13c7-4937-9173-813aed33b447"
     }
 }

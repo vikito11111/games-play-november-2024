@@ -25,5 +25,10 @@ SoftUni React Course Project
   - [x] Details link
   - [x] Details route
   - [x] Api function - getOne
-  - [ ] Comments
 - [x] Home - Latest Games
+## 5. Comments
+- [x] Create service for nested resource `comments`
+- [x] Post comment to server
+- [x] Read comments from server
+- [x] Add comments in the component
+- [x] Clear form

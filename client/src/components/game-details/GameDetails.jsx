@@ -5,7 +5,7 @@ import gamesAPI from "../../api/games-api";
 import commentsAPI from "../../api/comments-api";
 
 export default function GameDetails() {
-    const [game, setGame] = useState({});
+    const [game, setGame] = useState({ comments: {} });
     const [username, setUsername] = useState('');
     const [comment, setComment] = useState('');
 

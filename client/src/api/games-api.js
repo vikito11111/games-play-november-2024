@@ -9,3 +9,14 @@ export async function getAll() {
 
     return games;
 };
+
+export function getOne(gameId) {
+    return request.get(`${GAMES_BASE_URL}/${gameId}`);
+}
+
+const gamesAPI = {
+    getAll,
+    getOne,
+};
+
+export default gamesAPI;

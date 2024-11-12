@@ -21,7 +21,8 @@ SoftUni React Course Project
 - [x] Preseed practice server
 ## 4. Page Implemention
 - [x] Game Catalog
-- [ ] Details
+- [x] Details
   - [x] Details link
-  - [ ] Details route
+  - [x] Details route
+  - [x] Api function - getOne
 - [ ] Home

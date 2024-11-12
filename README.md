@@ -22,4 +22,6 @@ SoftUni React Course Project
 ## 4. Page Implemention
 - [x] Game Catalog
 - [ ] Details
+  - [x] Details link
+  - [ ] Details route
 - [ ] Home

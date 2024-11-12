@@ -25,4 +25,5 @@ SoftUni React Course Project
   - [x] Details link
   - [x] Details route
   - [x] Api function - getOne
-- [ ] Home
+  - [ ] Comments
+- [x] Home - Latest Games

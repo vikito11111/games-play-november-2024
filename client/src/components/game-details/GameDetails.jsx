@@ -15,7 +15,7 @@ export default function GameDetails() {
             
             setGame(result);
         })()
-    });
+    }, []);
 
     return (
         /* <!--Details Page--> */
